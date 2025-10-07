@@ -1,0 +1,6 @@
+[tool.uv]
+requires-python = ">=3.9"
+resolver = "default"
+extend-cli-args-path = [
+    "requirements.txt"
+]
